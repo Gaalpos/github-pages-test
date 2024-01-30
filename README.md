@@ -1,5 +1,7 @@
 # Deploy React app on Github Pages
 
+https://gaalpos.github.io/github-pages-test/
+
 1.Create your React App.
 
 2.Create your Github repository.
@@ -50,3 +52,5 @@ Deploy :
 Now go to "Pages" on the repository settings. You should see the deploy link there once its fully deployed. 
 
 Enjoy :)
+
+UDPDATE: I think you need to run " npm run deploy" for the web to update after a push. Not sure tho. Anyway i dont think doing that can hurt anything.
